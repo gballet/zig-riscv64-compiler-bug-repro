@@ -1,0 +1,7 @@
+.{
+    .name = .repro,
+    .fingerprint = 0xdd3d4c6ee8a0f321,
+    .version = "0.0.0",
+    .dependencies = .{},
+    .paths = .{""},
+}
